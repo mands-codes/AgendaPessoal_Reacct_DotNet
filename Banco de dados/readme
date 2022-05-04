@@ -1,1 +1,2 @@
-oie
+Backup de Banco de Dados SQL Server.
+Restaurar e após alterar a connection string do backend WebAPI
